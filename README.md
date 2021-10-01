@@ -2,5 +2,5 @@
 
 - I’m currently studying  Computer Science and Engineering 
 - Cyber Security Enthusiastic 
-- Security Researcher/ Bug Hunter in Web Applicaiton
+- Application Security Researcher/Bug Hunter 
 - Twitter : [@DK_9510](https://twitter.com/DK_9510)
