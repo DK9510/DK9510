@@ -4,5 +4,4 @@
 - Cyber Security Enthusiastic 
 - Application Security Researcher/Bug Hunter 
 - Twitter : [@DK_9510](https://twitter.com/DK_9510)
-![](https://komarev.com/ghpvc/?username=DK9510t&color=lightblue)
-
+![](https://komarev.com/ghpvc/?username=DK9510t&color=brightgreen)
