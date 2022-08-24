@@ -1,6 +1,6 @@
-## **_Hi My Name is DISHANT 👋_**
+## **_Hi I AM DISHANT 👋🙃😋_ **
 
-- I’m currently studying  Computer Science and Engineering 
+- I’m Pursuing Computer Science and Engineering 
 - Cyber Security Enthusiastic 
 - Bug Hunter
 - CTF Player
